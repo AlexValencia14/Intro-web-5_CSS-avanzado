@@ -1,0 +1,18 @@
+NOTAS DE CLASE DEL CSS LLAMADO STYLE
+
+	Estilos para diferentes elementos
+	Modelo caja (border, margin, padding)
+	
+	position --> Propiedad posición
+		static --> valor por defecto
+		relative --> relativo
+		absolute --> absoluto
+		fixed --> fijo en la pantalla
+		sticky --> ejemp. barras de navegación
+
+NOTAS DE CLASE DEL CSS LLAMADO DISPLAY
+
+	none --> no se muestra
+	inline --> en linea
+	block --> abarca un bloque
+	inline-block --> combinación de inline y block
